@@ -74,7 +74,7 @@
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="14"/>
         <source>APT Repository Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مدير مستودعات APT</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="125"/>
@@ -89,7 +89,7 @@
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="308"/>
         <source>Enable Source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تمكين المصدر</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="338"/>
@@ -110,12 +110,12 @@
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="25"/>
         <source>example %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 مثال</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="59"/>
         <source>APT Repositories (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(%1) مستودعات APT</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="66"/>
@@ -128,7 +128,7 @@
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_repository_item.cpp" line="34"/>
         <source>%1 (Source Code)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">بند مستودع مصدر APT</translation>
     </message>
 </context>
 <context>
@@ -151,12 +151,12 @@
     <message>
         <location filename="../stacer/app.ui" line="306"/>
         <source>APT Repository Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مدير مستودع APT</translation>
     </message>
     <message>
         <location filename="../stacer/app.ui" line="250"/>
         <source>Uninstaller</source>
-        <translation>ملغي التثبيتات</translation>
+        <translation>إلغاء التثبيت</translation>
     </message>
     <message>
         <location filename="../stacer/app.ui" line="278"/>
@@ -176,7 +176,7 @@
     <message>
         <location filename="../stacer/app.ui" line="334"/>
         <source>Gnome Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">إعدادات غنوم</translation>
     </message>
     <message>
         <location filename="../stacer/app.ui" line="362"/>
@@ -204,27 +204,27 @@
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="74"/>
         <source>Screen Reader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">قارئ الشاشة</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="100"/>
         <source>Screen Keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">لوحة مفاتيح الشاشة</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="136"/>
         <source>Background Image Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">وضع صورة الخلفية</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="166"/>
         <source>Desktop Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">وضع سطح المكتب</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="204"/>
         <source>Login Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">وضع الدخول</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="252"/>
@@ -234,27 +234,27 @@
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="282"/>
         <source>Home Icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">أيقونة المنزل</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="308"/>
         <source>Trash Icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">أيقونة المهملات</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="321"/>
         <source>Mounted Volumes Icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">أيقونة وحدات التخزين المُركّبة</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="347"/>
         <source>Show Desktop Icons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">إظهار أيقونات سطح المكتب</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="373"/>
         <source>Network Icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">أيقونة الشبكة</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
@@ -264,32 +264,32 @@
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
         <source>Wallpaper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">خلفية</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مركز</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="72"/>
         <source>Scaled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تحجيم</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="72"/>
         <source>Stretched</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">امتداد</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="72"/>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تكبير</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="72"/>
         <source>Spanned</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">امتدت</translation>
     </message>
 </context>
 <context>
@@ -382,22 +382,22 @@
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="134"/>
         <source>The amount of CPU used is over %1%.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استخدام وحدة المعالجة المركزية عالية</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="162"/>
         <source>High Memory Usage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استخدام ذاكرة عشوائية عالية</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="163"/>
         <source>The amount of memory used is over %1%.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مقدار الذاكرة المستخدمة أكثر من %1%.</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="202"/>
         <source>High Disk Usage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استخدام قرص التخزين عالي</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="203"/>
